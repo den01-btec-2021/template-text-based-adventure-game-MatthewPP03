@@ -14,7 +14,7 @@ def main():
         print("You have travelled South!")
     elif direction == "West":
         print("You have now travelled West!")
-    else:
+    elif direction == "East":
         print("You have travelled East!")
 
 main()
